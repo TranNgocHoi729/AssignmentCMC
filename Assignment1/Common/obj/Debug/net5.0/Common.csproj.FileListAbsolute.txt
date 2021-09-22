@@ -1,0 +1,12 @@
+F:\Doccument\CMC\Training\Assignment1\Assignment1\Common\bin\Debug\net5.0\Common.deps.json
+F:\Doccument\CMC\Training\Assignment1\Assignment1\Common\bin\Debug\net5.0\Common.dll
+F:\Doccument\CMC\Training\Assignment1\Assignment1\Common\bin\Debug\net5.0\ref\Common.dll
+F:\Doccument\CMC\Training\Assignment1\Assignment1\Common\bin\Debug\net5.0\Common.pdb
+F:\Doccument\CMC\Training\Assignment1\Assignment1\Common\obj\Debug\net5.0\Common.csprojAssemblyReference.cache
+F:\Doccument\CMC\Training\Assignment1\Assignment1\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\Doccument\CMC\Training\Assignment1\Assignment1\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+F:\Doccument\CMC\Training\Assignment1\Assignment1\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+F:\Doccument\CMC\Training\Assignment1\Assignment1\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+F:\Doccument\CMC\Training\Assignment1\Assignment1\Common\obj\Debug\net5.0\Common.dll
+F:\Doccument\CMC\Training\Assignment1\Assignment1\Common\obj\Debug\net5.0\ref\Common.dll
+F:\Doccument\CMC\Training\Assignment1\Assignment1\Common\obj\Debug\net5.0\Common.pdb

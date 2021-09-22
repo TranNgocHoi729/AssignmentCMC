@@ -1,0 +1,17 @@
+F:\Doccument\CMC\Training\Assignment1\Assignment1\AccountService\bin\Debug\net5.0\Common.dll
+F:\Doccument\CMC\Training\Assignment1\Assignment1\AccountService\bin\Debug\net5.0\Data.dll
+F:\Doccument\CMC\Training\Assignment1\Assignment1\AccountService\bin\Debug\net5.0\Data.pdb
+F:\Doccument\CMC\Training\Assignment1\Assignment1\AccountService\obj\Debug\net5.0\AccountService.csprojAssemblyReference.cache
+F:\Doccument\CMC\Training\Assignment1\Assignment1\AccountService\obj\Debug\net5.0\AccountService.GeneratedMSBuildEditorConfig.editorconfig
+F:\Doccument\CMC\Training\Assignment1\Assignment1\AccountService\obj\Debug\net5.0\AccountService.AssemblyInfoInputs.cache
+F:\Doccument\CMC\Training\Assignment1\Assignment1\AccountService\obj\Debug\net5.0\AccountService.AssemblyInfo.cs
+F:\Doccument\CMC\Training\Assignment1\Assignment1\AccountService\bin\Debug\net5.0\AccountService.deps.json
+F:\Doccument\CMC\Training\Assignment1\Assignment1\AccountService\bin\Debug\net5.0\AccountService.dll
+F:\Doccument\CMC\Training\Assignment1\Assignment1\AccountService\bin\Debug\net5.0\ref\AccountService.dll
+F:\Doccument\CMC\Training\Assignment1\Assignment1\AccountService\bin\Debug\net5.0\AccountService.pdb
+F:\Doccument\CMC\Training\Assignment1\Assignment1\AccountService\bin\Debug\net5.0\Common.pdb
+F:\Doccument\CMC\Training\Assignment1\Assignment1\AccountService\obj\Debug\net5.0\AccountService.csproj.CoreCompileInputs.cache
+F:\Doccument\CMC\Training\Assignment1\Assignment1\AccountService\obj\Debug\net5.0\AccountService.csproj.CopyComplete
+F:\Doccument\CMC\Training\Assignment1\Assignment1\AccountService\obj\Debug\net5.0\AccountService.dll
+F:\Doccument\CMC\Training\Assignment1\Assignment1\AccountService\obj\Debug\net5.0\ref\AccountService.dll
+F:\Doccument\CMC\Training\Assignment1\Assignment1\AccountService\obj\Debug\net5.0\AccountService.pdb

@@ -1,0 +1,15 @@
+F:\Doccument\CMC\Training\Assignment1\Assignment1\LoginService\bin\Debug\net5.0\LoginService.deps.json
+F:\Doccument\CMC\Training\Assignment1\Assignment1\LoginService\bin\Debug\net5.0\LoginService.dll
+F:\Doccument\CMC\Training\Assignment1\Assignment1\LoginService\bin\Debug\net5.0\ref\LoginService.dll
+F:\Doccument\CMC\Training\Assignment1\Assignment1\LoginService\bin\Debug\net5.0\LoginService.pdb
+F:\Doccument\CMC\Training\Assignment1\Assignment1\LoginService\bin\Debug\net5.0\Data.dll
+F:\Doccument\CMC\Training\Assignment1\Assignment1\LoginService\bin\Debug\net5.0\Data.pdb
+F:\Doccument\CMC\Training\Assignment1\Assignment1\LoginService\obj\Debug\net5.0\LoginService.csprojAssemblyReference.cache
+F:\Doccument\CMC\Training\Assignment1\Assignment1\LoginService\obj\Debug\net5.0\LoginService.GeneratedMSBuildEditorConfig.editorconfig
+F:\Doccument\CMC\Training\Assignment1\Assignment1\LoginService\obj\Debug\net5.0\LoginService.AssemblyInfoInputs.cache
+F:\Doccument\CMC\Training\Assignment1\Assignment1\LoginService\obj\Debug\net5.0\LoginService.AssemblyInfo.cs
+F:\Doccument\CMC\Training\Assignment1\Assignment1\LoginService\obj\Debug\net5.0\LoginService.csproj.CoreCompileInputs.cache
+F:\Doccument\CMC\Training\Assignment1\Assignment1\LoginService\obj\Debug\net5.0\LoginService.csproj.CopyComplete
+F:\Doccument\CMC\Training\Assignment1\Assignment1\LoginService\obj\Debug\net5.0\LoginService.dll
+F:\Doccument\CMC\Training\Assignment1\Assignment1\LoginService\obj\Debug\net5.0\ref\LoginService.dll
+F:\Doccument\CMC\Training\Assignment1\Assignment1\LoginService\obj\Debug\net5.0\LoginService.pdb
